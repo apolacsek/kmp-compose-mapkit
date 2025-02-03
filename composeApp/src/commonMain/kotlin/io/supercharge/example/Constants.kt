@@ -1,0 +1,9 @@
+package io.supercharge.example
+
+const val DEFAULT_LATITUDE = 47.497918750811266
+const val DEFAULT_LONGITUDE = 19.05440718219248
+const val DEFAULT_ZOOM = 16.0f
+
+const val TILE_SIZE = 256.0
+const val FULL_ROTATION_DEGREES = 360.0
+const val ZOOM_LEVEL_THRESHOLD = 15f

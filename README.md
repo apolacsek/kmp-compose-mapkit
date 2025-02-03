@@ -35,4 +35,7 @@ To run the project, you must provide a Google Maps API key:
 
 ## Blog Post Reference
 
-This sample project accompanies the blog post [Integrating MapKit in Compose Multiplatform](https://medium.com/@apolacsek/integrating-mapkit-in-compose-multiplatform-165de6141364). Refer to the associated blog post for detailed implementation insights and explanations.
+This sample project accompanies the blog post [Integrating MapKit in Compose Multiplatform](https://medium.com/@apolacsek/integrating-mapkit-in-compose-multiplatform-165de6141364) and [Integrating MapKit in Compose Multiplatform-Part 2: Refining implementation](https://medium.com/supercharges-mobile-product-guide/integrating-mapkit-in-compose-multiplatform-part-2-refining-implementation-d498b6aef96c). Refer to the associated blog post for detailed implementation insights and explanations.
+
+## License
+Uicons by [Flaticon](https://www.flaticon.com/uicons)

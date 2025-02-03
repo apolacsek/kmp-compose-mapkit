@@ -1,4 +1,6 @@
-package io.supercharge.example
+package io.supercharge.example.util
+
+import io.supercharge.example.model.Coordinate
 
 /**
  * Decodes an encoded path string into a sequence of Coordinates.
@@ -39,3 +41,5 @@ fun decode(encodedPath: String): List<Coordinate> {
 
     return path
 }
+
+fun String.decodeToPolyline(): List<Coordinate> = decode(this)

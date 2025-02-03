@@ -1,4 +1,4 @@
-package io.supercharge.example
+package io.supercharge.example.model
 
 import androidx.compose.runtime.Stable
 
@@ -6,10 +6,4 @@ import androidx.compose.runtime.Stable
 data class Coordinate(
     val latitude: Double,
     val longitude: Double
-)
-
-@Stable
-data class Marker(
-    val title: String,
-    val coordinate: Coordinate
 )
